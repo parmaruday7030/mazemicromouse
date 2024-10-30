@@ -29,7 +29,8 @@ This project involves building a micromouse robot that navigates through a maze 
 
 ## Code Explanation
 The code utilizes the flood fill algorithm to navigate through the maze. It reads inputs from the IR and sonar sensors to detect walls and updates the maze representation accordingly. The robot moves based on the calculated shortest path to the goal.
-FloodFill Algorithm : https://youtu.be/Zwh-QNlsurI?si=kglIv5pRiBY5NRx-
+
+- [Flood Fill Algorithm Video](https://youtu.be/Zwh-QNlsurI?si=kglIv5pRiBY5NRx-) - An informative video explaining the Flood Fill algorithm.
 
 ## Usage
 Once the robot is assembled and the code is uploaded, place it at the starting point of the maze. Ensure the maze layout is correct and free of obstacles. The robot will begin navigating to the goal automatically.
@@ -40,6 +41,6 @@ Once the robot is assembled and the code is uploaded, place it at the starting p
 - Improve motor control for smoother navigation.
 
 ## Acknowledgments
-Special thanks to online tutorials and communities for their guidance in robotics and Arduino programming.
-https://micromouseonline.com/
-https://www.youtube.com/watch?app=desktop&v=ZMQbHMgK2rw&ab_channel=Veritasium
+Special thanks to the following resources for their guidance in robotics and Arduino programming:
+- [Micromouse Online](https://micromouseonline.com/) - A valuable resource for micromouse enthusiasts.
+- [Veritasium YouTube Video](https://www.youtube.com/watch?app=desktop&v=ZMQbHMgK2rw&ab_channel=Veritasium) - A great introduction to the principles of robotics and automation.
